@@ -68,4 +68,5 @@ Make sure you have Python 3.x installed on your system. You can download it from
 - `constant/`: Dictionaries for symptoms and diseases mappings
 
 
+<img width="1336" height="611" alt="image" src="https://github.com/user-attachments/assets/84ef9fa6-7008-497b-960a-f01ccf165f3c" />
 
