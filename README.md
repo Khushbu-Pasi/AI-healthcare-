@@ -69,4 +69,8 @@ Make sure you have Python 3.x installed on your system. You can download it from
 
 
 <img width="1336" height="611" alt="image" src="https://github.com/user-attachments/assets/84ef9fa6-7008-497b-960a-f01ccf165f3c" />
+<img width="1210" height="586" alt="image" src="https://github.com/user-attachments/assets/4848ae47-0629-4bb2-a82a-9884169ca8cf" />
+<img width="996" height="590" alt="image" src="https://github.com/user-attachments/assets/7d61fca5-c24f-4e75-94ec-f4624f700f48" />
+<img width="1293" height="596" alt="image" src="https://github.com/user-attachments/assets/5487e9a9-9565-4ee8-af6c-9757800a7631" />
+
 
